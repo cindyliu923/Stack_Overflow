@@ -22,3 +22,12 @@
 
 .byebug_history
 .versions.conf
+
+# Ignore env files
+.env*
+!.env.sample
+!.env*.enc
+!.env.test.ci
+
+# Ignore docker files
+docker-compose.yml

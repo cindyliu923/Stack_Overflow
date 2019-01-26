@@ -79,3 +79,4 @@ gem 'bullet', '5.7.5', group: :development
 # --------- #
 
 gem 'devise'
+gem 'dotenv-rails', require: 'dotenv/rails-now'
