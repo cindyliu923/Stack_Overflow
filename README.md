@@ -2,12 +2,13 @@
 
 - Before installing Gemfiles, please check your bundler version by typing `bundle -v`, minimum version required is 2.0.0
 - Create a file named `.env.development`, add the following lines to the file to set the environment variables
-
+
 ```
 DB_HOST=127.0.0.1
 DB_USERNAME=your_db_username
 DB_PASSWORD=your_db_password
 ```
+
 - Create DB
 
 ```
